@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-image: url("./img/pics1.png");
+    padding: 22% 0%;
+
+}
+.but2{
+  background-color: green;
+  color: white;
+  height: 20px;
+  border: none;
+}
+.buthead{
+    padding-right: 10%;
+    padding-bottom: 0%;
+}
+
+.navchild{
+    padding-left: 10%;
+}
